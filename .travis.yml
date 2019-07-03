@@ -4,9 +4,10 @@ language: node_js
 sudo: required
 # 指定node_js版本
 node_js: 
-  - 7.9.0
+  - "10.12.0" 
 # 指定缓存模块，可选。缓存可加快编译速度。
 cache:
+  apt: true
   directories:
     - node_modules
 
@@ -16,7 +17,8 @@ branches:
     - hexo_src 
 
 before_install:
-  - npm install -g hexo-cli
+  - export TZ='Asia/Shanghai' # 更改时区
+  - npm install hexo-cli -g
 
 # Start: Build Lifecycle
 install:
