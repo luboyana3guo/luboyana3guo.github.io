@@ -24,9 +24,11 @@ tags: 技术管理36讲
 - 进入跟踪系统
 
 ## 范围确定
+
 内插外延，做什么不做什么。
 
 ## 目标分解
+
  结果可验证和追责，
  合适的粒度是一个大目标拆分为3个小目标（拆分成以天为单位的任务）
 
@@ -34,32 +36,23 @@ tags: 技术管理36讲
 
 
 ## 可执行任务分解
+
 OKR是目标沟通文档，不是执行和日常跟踪文档，OKR是用来复盘的。
 从OKR到可执行文档，需要更细粒度的一层分解。
 
 - 粒度参考
+
 3个人，OKR有5-10个验证结果， 看板上有60-80个小任务。
+
 
 ## 进入跟踪系统
 看板是可视化的跟踪系统
 
 # 负责人核心
 
-计划 跟踪 总结（复盘）
+- 计划 
+- 跟踪 
+- 总结（复盘）
 
 
 
-
-
-
-
-
-## 参考网址
-
-- https://hadronw.com/2018/05-27/travis-autodeploy-github-with-coding/
-- https://juejin.im/post/5a1fa30c6fb9a045263b5d2a
-- https://blog.csdn.net/xiong_it/article/details/55193816
-- https://github.com/Haojen/hexo-theme-Anisina
-
-
-## 步骤
